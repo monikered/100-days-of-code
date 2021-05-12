@@ -8,10 +8,10 @@
 
 **Link to work:** [beylines](https://github.com/monikered/beylines/blob/main/beylines.Rmd)
 
-### Day #: 
+### Day 2: May 11th, 2021 
 
-**Today's Progress:** 
+**Today's Progress:** Learned how to knit Rmd files so they are displayed properly here! Also dove into basics of tidy text mining and explored different options for cleaning my dataset. How can I transform the data so I extract something meaningful?
 
-**Thoughts:** 
+**Thoughts:** I thought today would be much harder than it really was! Had a late start, but once I got going, I had plenty of things to work on. Just keep swimming!
 
-**Link to work:** [beylines](https://github.com/monikered/beylines/blob/main/beylines.Rmd)
+**Link to work:** [beylines](https://github.com/monikered/beylines/blob/main/beylines.md)
